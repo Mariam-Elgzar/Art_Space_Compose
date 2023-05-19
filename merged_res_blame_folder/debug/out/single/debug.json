@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/drawable_adoration.jpg.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/drawable/adoration.jpg"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/drawable_atumn_image.jpeg.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/drawable/atumn_image.jpeg"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/drawable_robert_image.jpeg.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/drawable/robert_image.jpeg"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/drawable_summer_image.jpeg.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/drawable/summer_image.jpeg"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/drawable_winter_image.jpeg.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/drawable/winter_image.jpeg"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/drawable_the_starry_night.jpg.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/drawable/the_starry_night.jpg"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.projectcomposeartspaceapp-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.projectcomposeartspaceapp-main-37:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
