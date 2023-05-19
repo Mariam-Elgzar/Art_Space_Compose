@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProjectComposeArtSpaceApp</string>
+    <string name="NameOfArtStarry">The Starry Art</string>
+    <string name="YearOfArtStarry">1889</string>
+    <string name="ArtistNameOfArtStarry">Van Gogh</string>
+    <string name="ArtistNameRobert">Robert Downey Junior</string>
+    <string name="NameOfArtRobert">The Ultimate Sacrifice and The biggest win</string>
+    <string name="YearOfArtRobert">2019</string>
+    <string name="ArtistNameOfArtMonaLisa">Leonardo da Vinci</string>
+    <string name="NameOfArtMonaLisa">The Mona Lisa</string>
+    <string name="YearOfArtMonaLisa">c. 1503–1506, perhaps continuing until c. 1517</string>
+    <string name="NameOfArtAdoration">Adoration of the Magi</string>
+    <string name="ArtistNameOfArtAdoration">Leonardo da Vinci</string>
+    <string name="YearOfArtAdoration">c. 1478–1482</string>
+    <string name="NameOfArtWind">Windy Wither</string>
+    <string name="YearOfArtWind">1890</string>
+    <string name="NameOfArtSummer">Summer Wither</string>
+    <string name="YearOfArtSummer">1890</string>
+    <string name="NameOfArtAutumn">autumn Wither</string>
+    <string name="YearOfArtAutumn">1890</string>
+
+    <string name="PreviousButton">Previous</string>
+    <string name="NextButton">Next</string>
+</resources>
+
+
