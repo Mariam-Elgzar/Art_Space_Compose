@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="ArtistNameOfArtAdoration">Leonardo da Vinci</string>
+    <string name="ArtistNameOfArtMonaLisa">Leonardo da Vinci</string>
+    <string name="ArtistNameOfArtStarry">Van Gogh</string>
+    <string name="ArtistNameRobert">Robert Downey Junior</string>
+    <string name="NameOfArtAdoration">Adoration of the Magi</string>
+    <string name="NameOfArtAutumn">autumn Wither</string>
+    <string name="NameOfArtMonaLisa">The Mona Lisa</string>
+    <string name="NameOfArtRobert">The Ultimate Sacrifice and The biggest win</string>
+    <string name="NameOfArtStarry">The Starry Art</string>
+    <string name="NameOfArtSummer">Summer Wither</string>
+    <string name="NameOfArtWind">Windy Wither</string>
+    <string name="NextButton">Next</string>
+    <string name="PreviousButton">Previous</string>
+    <string name="YearOfArtAdoration">c. 1478–1482</string>
+    <string name="YearOfArtAutumn">1890</string>
+    <string name="YearOfArtMonaLisa">c. 1503–1506, perhaps continuing until c. 1517</string>
+    <string name="YearOfArtRobert">2019</string>
+    <string name="YearOfArtStarry">1889</string>
+    <string name="YearOfArtSummer">1890</string>
+    <string name="YearOfArtWind">1890</string>
+    <string name="app_name">ProjectComposeArtSpaceApp</string>
+    <style name="Theme.ProjectComposeArtSpaceApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
